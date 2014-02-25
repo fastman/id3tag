@@ -1,0 +1,27 @@
+{
+  "name": "id3tag",
+  "version": "0.0.0",
+  "description": "id3 tag manipulation library",
+  "main": "test.js",
+  "dependencies" : {
+    "iconv": "2.0.7"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/fastman/id3tag.git"
+  },
+  "keywords": [
+    "id3",
+    "mp3",
+    "tag"
+  ],
+  "author": "Jakub Jelen <kuba@xserve.pl>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/fastman/id3tag/issues"
+  },
+  "homepage": "https://github.com/fastman/id3tag"
+}
